@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 A highly competitive applicant to six Ivy League universities leverages a strong Curriculum Vitae (CV) that is explicitly enhanced by a professional, public GitHub profile. This GitHub repository is crucial, moving beyond traditional academic metrics to offer tangible, verifiable proof of advanced technical skills and project execution, providing admissions committees with a dynamic and authentic view of the candidate's intellectual capability, especially in STEM fields.
-=======
-A highly competitive applicant to six Ivy League universities leverages a strong Curriculum Vitae (CV) that is explicitly enhanced by a professional, public GitHub profile. This GitHub repository is crucial, moving beyond traditional academic metrics to offer tangible, verifiable proof of advanced technical skills and project execution, providing admissions committees with a dynamic and authentic view of the candidate's intellectual capability, especially in STEM fields.
->>>>>>> 5d553b1914d150f07c6c63f4f533d8ad0e9f3d7e
