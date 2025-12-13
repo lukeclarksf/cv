@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 ---
 
-# John Doe
+# Luke Clark
 
 **[Your Profession]** | (555) 123-4567 | [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/lukeclarksf) | [GitHub](https://github.com/yourprofile)
 
