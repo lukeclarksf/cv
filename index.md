@@ -5,6 +5,8 @@ title: Curriculum Vitae
 
 # Luke Clark
 
+![Luke Clark](Luke Clark.png)
+
 **[Your Profession]** | (555) 123-4567 | [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/lukeclarksf) | [GitHub](https://github.com/yourprofile)
 
 ---
