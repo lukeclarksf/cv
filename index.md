@@ -22,9 +22,7 @@ Computer Scientist \| (063) 783-1121 \| [lukeclarksf@gmail.com](mailto:lukeclark
 
 LinkedIn: [linkedin.com/in/lukeclarksf](https://linkedin.com/in/lukeclarksf)
 
-View Code Portfolio on GitHub
-
-GitHub: [github.com/lukeclarksf](https://github.com/lukeclarksf)
+View Code Portfolio on GitHub: [github.com/lukeclarksf](https://github.com/lukeclarksf)
 
 ---
 
