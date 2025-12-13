@@ -11,11 +11,11 @@ title: Curriculum Vitae
 
 ---
 
-## 🎯 Summary
+## Summary
 
 Highly motivated and results-oriented [Your Profession] with [X] years of experience in [Key Area 1] and [Key Area 2]. Proven ability to [Key Skill/Achievement]. Seeking a challenging role where I can utilize my expertise in [Specific Technology].
 
-## 💼 Experience
+## Experience
 
 ### **Senior Software Developer**
 *TechCo Solutions* | *2020 – Present*
@@ -30,7 +30,7 @@ Highly motivated and results-oriented [Your Profession] with [X] years of experi
 * Contributed to the front-end development of a SaaS application.
 * Implemented unit and integration tests, increasing code coverage by 25%.
 
-## 🎓 Education
+## Education
 
 ### **Master of Science in Computer Science**
 *State University, City* | *2016 – 2018*
@@ -38,7 +38,7 @@ Highly motivated and results-oriented [Your Profession] with [X] years of experi
 ### **Bachelor of Science in Information Technology**
 *City College, City* | *2012 – 2016*
 
-## 🛠️ Skills
+## Skills
 
 * **Languages:** Python, JavaScript, Ruby, C++
 * **Frameworks:** React, Node.js, Ruby on Rails, Django
