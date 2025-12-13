@@ -1,13 +1,1 @@
-# Luke Clark - Professional Profile
-
-A professional static website showcasing academic and certification milestones, designed with a modern, high-contrast, McKinsey-inspired aesthetic.
-
-## 🔗 Website Link
-
-View the deployed profile: **[Luke Clark Professional Profile](https://lukeclarksf.github.io/)**
-
-*(Note: Replace bracketed placeholders with your actual GitHub details.)*
-
-## 🚀 Getting Started (Local Setup)
-
-To run this project locally, simply clone the repository and open `index.html` in your browser.
+A highly competitive applicant to six Ivy League universities leverages a strong Curriculum Vitae (CV) that is explicitly enhanced by a professional, public GitHub profile. This GitHub repository is crucial, moving beyond traditional academic metrics to offer tangible, verifiable proof of advanced technical skills and project execution, providing admissions committees with a dynamic and authentic view of the candidate's intellectual capability, especially in STEM fields.
