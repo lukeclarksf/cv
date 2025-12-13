@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Luke Clark - Curriculum Vitae
-permalink: /cv/
 summary: Technical Problem Solver | Focused on Python
 skills: 
   - Python
