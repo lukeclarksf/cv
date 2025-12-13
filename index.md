@@ -18,7 +18,7 @@ github_profile: lukeclarksf
 
 <img src="/Luke Clark.png" width="200" height="auto">
 
-**Computer Scientist** \| (063) 783-1121 \| [lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) 
+**Computer Scientist** \| (063) 783-1121 \| [lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) \| lukeclarksf.com
 
 **LinkedIn**: [linkedin.com/in/lukeclarksf](https://linkedin.com/in/lukeclarksf)
 
