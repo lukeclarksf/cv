@@ -12,6 +12,8 @@ education:
 github_profile: lukeclarksf
 ---
 
+## Luke Clark
+
 **Technical Problem Solver Focused \| on Python**
 
 ![Luke Clark](/Luke Clark.png)
@@ -46,7 +48,8 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 * **Primary Language:** Python
 * A repository dedicated to solving and optimizing various competitive programming challenges.
 * **Key Focus:** Efficiency in algorithms (Dynamic Programming, Graph Traversal) and mastery of core Data Structures.
-* View Python Repository: [github.com/lukeclarksf/leetcode](https://github.com/lukeclarksf/leetcode)
+* Project at [lukeclarkca.com](https://lukeclarkca.com)
+* View Python Repository: [github.com/lukeclarksf/leetcode](https://github.com/lukeclarksf/leetcode) 
 
 ---
 
