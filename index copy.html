@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Full Name] - Technical Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <style>
+        /* --- Global Styles & Resets --- */
+        :root {
+            --primary-font: 'Roboto', sans-serif;
+            --text-dark: #222222; /* Dark text for light backgrounds */
+            --text-light: #555555; /* Muted dark text */
+            --background-light: #ffffff; /* WHITE for 60% Content Area */
+            --background-mck-blue-dark: #004d70; /* DARK BLUE for body/outer background */
+            --mckinsey-blue-dark: #0076a8; /* Darker Blue (for primary accents) */
+            --mckinsey-blue-accent: #0099cc; /* Brighter Blue (for highlights) */
+            --border-color: #d0dbe4; /* Light blue/gray border */
+            --shadow-color: rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--primary-font);
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--background-mck-blue-dark); 
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto; 
+            padding: 20px 0;
+            background-color: var(--background-light); 
+            box-shadow: 0 0 20px var(--shadow-color);
+            color: var(--text-dark); 
+        }
+
+        /* --- Typography Helpers --- */
+        .blue-text {
+            color: var(--mckinsey-blue-dark) !important;
+        }
+        .blue-bg {
+            background-color: var(--mckinsey-blue-dark) !important;
+            color: var(--background-light) !important;
+            padding: 10px 20px;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .blue-bg:hover {
+            background-color: var(--mckinsey-blue-accent) !important;
+        }
+        .highlight {
+            font-weight: 700;
+            color: var(--mckinsey-blue-accent);
+        }
+
+        /* --- Header & Navigation --- */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 5%;
+            border-bottom: 1px solid var(--border-color);
+            background-color: var(--background-light);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+        }
+        .header-nav {
+            display: flex; 
+            align-items: center;
+        }
+        .header-nav a { 
+            color: var(--text-light);
+            margin-left: 30px;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .header-nav a:hover {
+            color: var(--mckinsey-blue-accent);
+        }
+        .header-logo {
+            color: var(--mckinsey-blue-dark);
+            font-size: 1.5em;
+            font-weight: 700;
+        }
+        .github-link i {
+            margin-right: 5px; 
+        }
+
+        /* --- Hero Section --- */
+        .hero-section {
+            display: flex;
+            align-items: center;
+            padding: 60px 5%;
+            border-bottom: 1px solid var(--border-color);
+            gap: 50px; 
+        }
+
+        .photo-placeholder {
+            width: 150px; /* Reduced photo size for better CV balance */
+            height: 180px;
+            flex-shrink: 0; 
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 5px 10px var(--shadow-color);
+        }
+
+        .photo-placeholder img {
+            width: 100%; 
+            height: 100%; 
+            object-fit: cover; /* Ensures rectangular photo fits */
+            display: block;
+        }
+
+        .hero-text h1 {
+            color: var(--mckinsey-blue-dark); 
+            font-size: 3em;
+            margin-bottom: 5px;
+        }
+
+        .tagline {
+            color: var(--text-light);
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        /* --- General Section Styling --- */
+        .section {
+            padding: 40px 5%;
+            border-bottom: 1px solid var(--border-color);
+            background-color: var(--background-light); 
+            color: var(--text-dark); 
+        }
+
+        .section-title {
+            color: var(--text-dark); 
+            border-bottom: 2px solid var(--mckinsey-blue-accent);
+            padding-bottom: 5px;
+            margin-bottom: 25px;
+            font-size: 2em;
+        }
+        
+        .content-block {
+            padding-left: 15px;
+            margin-bottom: 20px;
+            border-left: 3px solid var(--border-color);
+        }
+        .content-block h3 {
+            margin-bottom: 5px;
+        }
+        
+        /* --- Project Styling --- */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .project-card {
+            background-color: #f7f7f7; 
+            padding: 20px; 
+            border-left: 5px solid var(--mckinsey-blue-dark);
+            border-radius: 4px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .project-card h4 {
+            font-size: 1.2em;
+            color: var(--mckinsey-blue-dark);
+            margin-bottom: 10px;
+        }
+
+        .project-card a {
+            color: var(--mckinsey-blue-accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        /* --- Skills Table --- */
+        .skills-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        .skills-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .skills-category {
+            font-weight: 700;
+            color: var(--mckinsey-blue-dark);
+            width: 25%;
+        }
+
+        /* --- Footer --- */
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: var(--mckinsey-blue-dark);
+            color: var(--background-light);
+            font-size: 0.9rem;
+        }
+        .footer a {
+            color: var(--background-light);
+            text-decoration: underline;
+            margin-left: 10px;
+            transition: color 0.3s;
+        }
+        .footer a:hover {
+             color: var(--mckinsey-blue-accent);
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <div class="header-logo">[Your Full Name]</div>
+        <nav class="header-nav">
+            <a href="#summary">Summary</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#education">Education</a>
+            <a href="[Your GitHub URL]" target="_blank" class="github-link" aria-label="View Source on GitHub">
+                <i class="fab fa-github"></i>
+                GitHub Profile
+            </a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section id="hero" class="hero-section">
+            <div class="photo-placeholder">
+                <img src="[Path to your Rectangular Professional Photo]" alt="Professional Photo">
+            </div>
+            <div class="hero-text">
+                <h1>[Your Full Name]</h1>
+                <p class="tagline">Technical Problem Solver | Focused on Python & FinTech</p>
+                <a href="#projects" class="blue-bg">View Code Portfolio &rarr;</a>
+            </div>
+        </section>
+
+        <section id="summary" class="section">
+            <h2 class="section-title">Summary</h2>
+            <p>Highly ambitious and analytical individual with expertise in **Python** programming, algorithms, and data structures. Dedicated to solving complex problems and actively pursuing qualifications in financial services and advanced technical proficiency. Proven academic excellence and dedication to achieving top-tier results.</p>
+        </section>
+
+        <section id="skills" class="section">
+            <h2 class="section-title">Technical Skills</h2>
+            <table class="skills-table">
+                <tr>
+                    <td class="skills-category">Primary Language</td>
+                    <td><span class="highlight">Python</span>, including experience with data structures and algorithms.</td>
+                </tr>
+                <tr>
+                    <td class="skills-category">Web & Markup</td>
+                    <td>HTML5, CSS3 (demonstrated by this CV structure).</td>
+                </tr>
+                <tr>
+                    <td class="skills-category">Tools & Control</td>
+                    <td>Git, GitHub, [Add IDEs/OS experience here].</td>
+                </tr>
+                <tr>
+                    <td class="skills-category">Interests</td>
+                    <td>FinTech, Algorithmic Trading, Competitive Programming.</td>
+                </tr>
+            </table>
+        </section>
+
+
+        <section id="projects" class="section">
+            <h2 class="section-title">Code Projects</h2>
+            <div class="project-grid">
+                
+                <div class="project-card">
+                    <h4><i class="fas fa-terminal blue-text"></i> Project #1: LeetCode Python Solutions</h4>
+                    <p><strong>Primary Language:</strong> Python</p>
+                    <p>A repository dedicated to solving and optimizing various competitive programming challenges.</p>
+                    <p><strong>Key Focus:</strong> Efficiency in algorithms (Dynamic Programming, Graph Traversal) and mastery of core Data Structures.</p>
+                    <a href="[Link to your LeetCode Solutions Repo]" target="_blank">View Python Repository &rarr;</a>
+                </div>
+
+                <div class="project-card">
+                    <h4><i class="fas fa-chart-line blue-text"></i> Project #2: [Name Your Second Project - E.g., Basic Stock Analyzer]</h4>
+                    <p><strong>Primary Tool:</strong> [Python Pandas/Flask/React]</p>
+                    <p>[Brief description, e.g., A lightweight application to visualize historical stock data or analyze basic financial metrics.]</p>
+                    <p><strong>Key Focus:</strong> Data visualization, integration of external APIs (Finance), or frontend presentation.</p>
+                    <a href="[Link to your Second Project Repo]" target="_blank">View Project Repository &rarr;</a>
+                </div>
+
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <h2 class="section-title">Academic & Professional Development</h2>
+
+            <div class="content-block">
+                <h3 class="blue-text">Standardized Testing & Academic Interest</h3>
+                <ul>
+                    <li>**SAT Score:** <span class="highlight">1520</span> (December 7, 2024) — Demonstrates high analytical and quantitative abilities.</li>
+                    <li>**University Applications:** Applied to 6 top-tier universities, including Harvard (Awaiting Decision).</li>
+                </ul>
+            </div>
+
+            <div class="content-block">
+                <h3 class="blue-text">Certifications & Language</h3>
+                <ul>
+                    <li>**Cambridge English C2 Proficiency:** Achieved C2 level (September 12, 2025). *Indicates native-level mastery of complex English.* (The non-standard grade detail is safely omitted, focusing on the high certification level.)</li>
+                    <li>**FINRA SIE Interest:** Pursuing the Securities Industry Essentials (SIE) qualification (Target: November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services/FinTech sector.* (The 52% progress/score is a private detail and is omitted, focusing on the commitment to the field.)</li>
+                </ul>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2025 [Your Full Name]. Built using HTML/CSS/JS. 
+            <a href="[Your GitHub URL]" target="_blank">View Source on GitHub</a>
+        </p>
+    </footer>
+
+</body>
+</html>
