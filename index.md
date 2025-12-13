@@ -16,7 +16,7 @@ github_profile: lukeclarksf
 
 **Technical Problem Solver Focused \| on Python**
 
-![Luke Clark](/Luke Clark.png)
+<img src="/Luke Clark.png" width="200" height="auto">
 
 Computer Scientist \| (063) 783-1121 \| [lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) 
 
