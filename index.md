@@ -1,20 +1,17 @@
 ---
 layout: default
-title: [Your Full Name] - CV
+title: Luke Clark - Curriculum Vitae
 permalink: /cv/
-summary: Technical Problem Solver | Focused on Python & FinTech
+summary: Technical Problem Solver | Focused on Python
 skills: 
   - Python
   - Data Structures & Algorithms
-  - HTML5 & CSS3
   - Git & GitHub
 education: 
   - name: University Applications
     details: Applied to 6 top-tier universities, including Harvard (Awaiting Decision).
-github_profile: [Your GitHub Username]
+github_profile: lukeclarksf
 ---
-
-## Luke Clark
 
 **Technical Problem Solver Focused \| on Python**
 
