@@ -16,7 +16,7 @@ github_profile: [Your GitHub Username]
 
 ## Luke Clark
 
-**Technical Problem Solver | Focused on Python & FinTech**
+**Technical Problem Solver Focused \| on Python**
 
 ![Luke Clark](/Luke Clark.png)
 
@@ -36,7 +36,7 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 
 ---
 
-## Technical Skills
+## Skills
 
 | **Primary Language:** | Python, including experience with data structures and algorithms.
 | **Tools:** | Git, GitHub, MkDocs
@@ -62,6 +62,5 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 
 ## Certifications
 * **Cambridge English. English C2:** Achieved Grade Zero (September 12, 2025). *Indicates native-level mastery of complex English.*
-* **FINRA SIE** Pursuing the Securities Industry Essentials (SIE) qualification ( November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services.*
-* **B category ** Pursuing the Securities Industry Essentials (SIE) qualification ( November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services.*
+* **FINRA SIE** FINRA Securities Industry Essentials (SIE) qualification 52% (November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services.*
 * **Class B Commercial Driver's License (CDL)** Classes 26/80.
