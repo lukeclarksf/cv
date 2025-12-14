@@ -14,7 +14,7 @@ github_profile: lukeclarksf
 
 ## Luke Clark
 
-**Technical Problem Solver Focused \| on Python**
+**Technical Problem Solver Focused on: Python**
 
 <img src="/Luke Clark.png" width="200" height="auto">
 
@@ -24,21 +24,15 @@ github_profile: lukeclarksf
 
 View Code Portfolio on **GitHub**: [github.com/lukeclarksf](https://github.com/lukeclarksf)
 
----
-
 ## Summary
 
 Highly ambitious and analytical individual with expertise in **Python** programming, algorithms, and data structures. Dedicated to solving complex problems and actively pursuing qualifications in financial services and advanced technical proficiency. Proven academic excellence and dedication to achieving top-tier results.
-
----
 
 ## Skills
 
 | **Primary Language:** | Python, including experience with data structures and algorithms.
 | **Tools:** | Git, GitHub, MkDocs
 | **Interests** | FinTech, Competitive Programming. |
-
----
 
 ## Experience
 
@@ -48,8 +42,6 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 * **Key Focus:** Efficiency in algorithms (Dynamic Programming, Graph Traversal) and mastery of core Data Structures.
 * Project at [lukeclarkca.com](https://lukeclarkca.com)
 * View Python Repository: [github.com/lukeclarksf/leetcode](https://github.com/lukeclarksf/leetcode) 
-
----
 
 ## Education
 
