@@ -18,7 +18,7 @@ github_profile: lukeclarksf
 
 **Computer Scientist**
 
-[lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) \| [lukeclarksf.com](https://lukeclarksf.com) \| (063) 783-1121 
+[lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) \| [www.lukeclarksf.com](https://www.lukeclarksf.com) \| (063) 783-1121 
 
 **LinkedIn**: <a href="https://linkedin.com/in/lukeclarksf" target="__blank">linkedin.com/in/lukeclarksf</a>
 
@@ -44,8 +44,8 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 * **University Applications:** Applied to 6 Ivy League universities, including Harvard (Awaiting Decision).
 
 ## Certifications
-* **Cambridge English. English C2:** Achieved Grade Zero (September 12, 2025). *Indicates native-level mastery of complex English.*
-* **FINRA SIE** FINRA Securities Industry Essentials (SIE) qualification 52% (November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services.*
+* **Cambridge English. English C2:** Achieved Grade Zero (September 12, 2025). *Indicates mastery of complex English.*
+* **FINRA Securities Industry Essentials (SIE)** Score: 52% (November 24, 2025). *Demonstrates proactive interest in the regulated Financial Services.*
 * **Class B Commercial Driver's License (CDL)** Classes 26/80.
 
 ## Skills
