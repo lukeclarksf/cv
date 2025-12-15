@@ -14,15 +14,15 @@ github_profile: lukeclarksf
 
 ## Luke Clark
 
-**Technical Problem Solver Focused on: Python**
+**Technical Problem Solver Focused on Python**
 
 <img src="/Luke Clark.png" width="200" height="auto">
 
 **Computer Scientist** \| (063) 783-1121 \| [lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) \| [lukeclarksf.com](https://lukeclarksf.com)
 
-**LinkedIn**: [linkedin.com/in/lukeclarksf](https://linkedin.com/in/lukeclarksf)
+**LinkedIn**: <a href="https://linkedin.com/in/lukeclarksf" target="__blank">linkedin.com/in/lukeclarksf</a>
 
-View Code Portfolio on **GitHub**: [github.com/lukeclarksf](https://github.com/lukeclarksf)
+View Code Portfolio on **GitHub**: <a href="https://github.com/lukeclarksf" target="__blank">github.com/lukeclarksf</a>
 
 ## Summary
 
