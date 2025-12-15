@@ -39,7 +39,7 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 
 ## Education
 
-### Standardized Testing & Academic Interest
+### Standardized Testing & Academics
 * **SAT Score:** **1520** (December 7, 2024) — Demonstrates high analytical and quantitative abilities.
 * **University Applications:** Applied to 6 Ivy League universities, including Harvard (Awaiting Decision).
 
