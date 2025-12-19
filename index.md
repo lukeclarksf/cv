@@ -34,7 +34,7 @@ Highly ambitious and analytical individual with expertise in **Python** programm
 * **Primary Language:** Python
 * A repository dedicated to solving and optimizing various competitive programming challenges.
 * **Key Focus:** Efficiency in algorithms (Dynamic Programming, Graph Traversal) and mastery of core Data Structures.
-* Project at <a href="https://lukeclarkca.com" target="__blank">lukeclarkca.com</a>
+* Project at <a href="https://lukepython.com" target="__blank">lukepython.com</a>
 * View GitHub Repository: <a href="https://github.com/lukeclarksf/leetcode" target="__blank">github.com/lukeclarksf/leetcode</a>
 
 ## Education
