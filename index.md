@@ -18,7 +18,7 @@ github_profile: lukeclarksf
 
 **Computer Scientist**
 
-[lukefreshfields@gmail.com](mailto:lukefreshfields@gmail.com) \| [www.lukecal.com](https://www.lukecal.com) \| (063) 783-1121 
+[lukefreshfields@gmail.com](mailto:lukefreshfields@gmail.com) \| [lukecal.com](https://www.lukecal.com) \| (063) 783-1121 
 
 **LinkedIn**: <a href="https://linkedin.com/in/lukegoogle" target="__blank">linkedin.com/in/lukegoogle</a>
 
