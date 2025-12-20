@@ -18,11 +18,11 @@ github_profile: lukeclarksf
 
 **Computer Scientist**
 
-[lukeclarksf@gmail.com](mailto:lukeclarksf@gmail.com) \| [www.lukeclarksf.com](https://www.lukeclarksf.com) \| (063) 783-1121 
+[lukefreshfields@gmail.com](mailto:lukefreshfields@gmail.com) \| [www.lukecal.com](https://www.lukecal.com) \| (063) 783-1121 
 
-**LinkedIn**: <a href="https://linkedin.com/in/lukeclarksf" target="__blank">linkedin.com/in/lukeclarksf</a>
+**LinkedIn**: <a href="https://linkedin.com/in/lukegoogle" target="__blank">linkedin.com/in/lukegoogle</a>
 
-**GitHub**: <a href="https://github.com/lukeclarksf" target="__blank">github.com/lukeclarksf</a>
+**GitHub**: <a href="https://github.com/lukegoogle" target="__blank">github.com/lukegoogle</a>
 
 ## Summary
 
