@@ -12,7 +12,7 @@ education:
 github_profile: lukeclarksf
 ---
 
-## Luke Clark
+## Luke C.
 
 <img src="/Luke Clark.png" width="200" height="auto">
 
